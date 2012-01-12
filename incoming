@@ -1,0 +1,7 @@
+Name: squeeze-xivo-skaro-1.2-beta-1
+IncomingDir: incoming/squeeze-xivo-skaro-1.2-beta-1
+TempDir: /tmp
+Allow: squeeze-xivo-skaro-1.2-beta-1
+Default: squeeze-xivo-skaro-1.2-beta-1
+Cleanup: on_deny on_error
+

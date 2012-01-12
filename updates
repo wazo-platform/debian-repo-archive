@@ -1,0 +1,27 @@
+Name: squeeze
+Method: http://mirror.xivo.fr/debian/
+Suite: squeeze
+Components: main contrib non-free
+Architectures: i386 source
+VerifyRelease: B33A50859193E98C 
+
+Name: squeeze-xivo-skaro
+Method: http://mirror.xivo.fr/debian/
+Suite: squeeze-xivo-skaro
+Components: main
+Architectures: i386 source
+VerifyRelease: B33A50859193E98C 
+
+Name: lenny-xivo-gallifrey
+Method: http://mirror.xivo.fr/debian/
+Suite: lenny-xivo-gallifrey
+Components: main contrib non-free
+Architectures: i386 amd64 source
+VerifyRelease: B33A50859193E98C 
+
+Name: etch-xivo-dalek
+Method: http://mirror.xivo.fr/debian/
+Suite: etch-xivo-dalek
+Components: main contrib non-free
+Architectures: i386 amd64 source
+VerifyRelease: B33A50859193E98C 
