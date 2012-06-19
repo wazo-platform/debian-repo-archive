@@ -1,210 +1,308 @@
 Origin: proformatique.com
-Label: etch-xivo-dalek-1.0.14
-Suite: etch-xivo-dalek-1.0.14
-Codename: etch-xivo-dalek-1.0.14
+Label: etch-xivo-dalek-1.0.16
+Suite: etch-xivo-dalek-1.0.16
+Codename: etch-xivo-dalek-1.0.16
+#Update: etch-xivo-dalek etch
 Architectures: i386 source
-Components: main contrib non-free
-Description: Archive etch-xivo-dalek-1.0.14
-SignWith: 9193E98C
+Components: main non-free
+Description: Archive etch-xivo-dalek-1.0.16
+SignWith: 9A081A6C
 
 Origin: proformatique.com
 Label: etch-xivo-dalek-1.0.15
 Suite: etch-xivo-dalek-1.0.15
 Codename: etch-xivo-dalek-1.0.15
+#Update: etch-xivo-dalek etch
 Architectures: i386 source
-Components: main contrib non-free
+Components: main non-free
 Description: Archive etch-xivo-dalek-1.0.15
-SignWith: 9193E98C
+SignWith: 9A081A6C
 
 Origin: proformatique.com
-Label: etch-xivo-dalek-1.0.16
-Suite: etch-xivo-dalek-1.0.16
-Codename: etch-xivo-dalek-1.0.16
-#Update: etch-xivo-dalek
-Architectures: i386 source
-Components: main contrib non-free
-Description: Archive etch-xivo-dalek-1.0.16
-SignWith: 9193E98C
-
-Origin: proformatique.com
-Label: lenny-xivo-gallifrey-1.1.1
-Suite: lenny-xivo-gallifrey-1.1.1
-Codename: lenny-xivo-gallifrey-1.1.1
-Architectures: i386 amd64 source
-Components: main contrib non-free
-Description: Archive lenny-xivo-gallifrey-1.1.1
-SignWith: 9193E98C
-
-Origin: proformatique.com
-Label: lenny-xivo-gallifrey-1.1.2
-Suite: lenny-xivo-gallifrey-1.1.2
-Codename: lenny-xivo-gallifrey-1.1.2
-Architectures: i386 amd64 source
-Components: main contrib non-free
-Description: Archive lenny-xivo-gallifrey-1.1.2
-SignWith: 9193E98C
-
-Origin: proformatique.com
-Label: lenny-xivo-gallifrey-1.1.3
-Suite: lenny-xivo-gallifrey-1.1.3
-Codename: lenny-xivo-gallifrey-1.1.3
-Architectures: i386 amd64 source
-Components: main contrib non-free
-Description: Archive lenny-xivo-gallifrey-1.1.3
-SignWith: 9193E98C
-
-Origin: proformatique.com
-Label: lenny-xivo-gallifrey-1.1.4
-Suite: lenny-xivo-gallifrey-1.1.4
-Codename: lenny-xivo-gallifrey-1.1.4
-Architectures: i386 amd64 source
-Components: main contrib non-free
-Description: Archive lenny-xivo-gallifrey-1.1.4
-SignWith: 9193E98C
-
-Origin: proformatique.com
-Label: lenny-xivo-gallifrey-1.1.6
-Suite: lenny-xivo-gallifrey-1.1.6
-Codename: lenny-xivo-gallifrey-1.1.6
-Architectures: i386 amd64 source
-Components: main contrib non-free
-Description: Archive lenny-xivo-gallifrey-1.1.6
-SignWith: 9193E98C
-
-Origin: proformatique.com
-Label: lenny-xivo-gallifrey-1.1.8
-Suite: lenny-xivo-gallifrey-1.1.8
-Codename: lenny-xivo-gallifrey-1.1.8
-Architectures: i386 amd64 source
-Components: main contrib non-free
-Description: Archive lenny-xivo-gallifrey-1.1.8
-SignWith: 9193E98C
-
-Origin: proformatique.com
-Label: lenny-xivo-gallifrey-1.1.10
-Suite: lenny-xivo-gallifrey-1.1.10
-Codename: lenny-xivo-gallifrey-1.1.10
-Architectures: i386 amd64 source
-Components: main contrib non-free
-Description: Archive lenny-xivo-gallifrey-1.1.10
-SignWith: 9193E98C
-
-Origin: proformatique.com
-Label: lenny-xivo-gallifrey-1.1.11
-Suite: lenny-xivo-gallifrey-1.1.11
-Codename: lenny-xivo-gallifrey-1.1.11
-Architectures: i386 amd64 source
-Components: main contrib non-free
-Description: Archive lenny-xivo-gallifrey-1.1.11
-SignWith: 9193E98C
-
-Origin: proformatique.com
-Label: lenny-xivo-gallifrey-1.1.12
-Suite: lenny-xivo-gallifrey-1.1.12
-Codename: lenny-xivo-gallifrey-1.1.12
-Architectures: i386 amd64 source
-Components: main contrib non-free
-Description: Archive lenny-xivo-gallifrey-1.1.12
-SignWith: 9193E98C
-
-Origin: proformatique.com
-Label: lenny-xivo-gallifrey-1.1.13
-Suite: lenny-xivo-gallifrey-1.1.13
-Codename: lenny-xivo-gallifrey-1.1.13
-Architectures: i386 amd64 source
-Components: main contrib non-free
-Description: Archive lenny-xivo-gallifrey-1.1.13
-SignWith: 9193E98C
-
-Origin: proformatique.com
-Label: lenny-xivo-gallifrey-1.1.14
-Suite: lenny-xivo-gallifrey-1.1.14
-Codename: lenny-xivo-gallifrey-1.1.14
-Architectures: i386 amd64 source
-Components: main contrib non-free
-Description: Archive lenny-xivo-gallifrey-1.1.14
-SignWith: 9193E98C
-
-Origin: proformatique.com
-Label: lenny-xivo-gallifrey-1.1.15
-Suite: lenny-xivo-gallifrey-1.1.15
-Codename: lenny-xivo-gallifrey-1.1.15
-Architectures: i386 amd64 source
-Components: main contrib non-free
-Description: Archive lenny-xivo-gallifrey-1.1.15
-SignWith: 9193E98C
-
-Origin: proformatique.com
-Label: lenny-xivo-gallifrey-1.1.16
-Suite: lenny-xivo-gallifrey-1.1.16
-Codename: lenny-xivo-gallifrey-1.1.16
+Label: etch-xivo-dalek-1.0.14
+Suite: etch-xivo-dalek-1.0.14
+Codename: etch-xivo-dalek-1.0.14
+#Update: etch-xivo-dalek etch
 Architectures: i386 source
 Components: main non-free
-Description: Archive lenny-xivo-gallifrey-1.1.16
-SignWith: 9193E98C
-
-Origin: proformatique.com
-Label: lenny-xivo-gallifrey-1.1.17
-Suite: lenny-xivo-gallifrey-1.1.17
-Codename: lenny-xivo-gallifrey-1.1.17
-Architectures: i386 source
-Components: main non-free
-Description: Archive lenny-xivo-gallifrey-1.1.17
-SignWith: 9193E98C
-
-Origin: proformatique.com
-Label: lenny-xivo-gallifrey-1.1.19
-Suite: lenny-xivo-gallifrey-1.1.19
-Codename: lenny-xivo-gallifrey-1.1.19
-Architectures: i386 source
-Components: main non-free
-Description: Archive lenny-xivo-gallifrey-1.1.19
-SignWith: 9193E98C
-
-Origin: proformatique.com
-Label: lenny-xivo-gallifrey-1.1.20
-Suite: lenny-xivo-gallifrey-1.1.20
-Codename: lenny-xivo-gallifrey-1.1.20
-Architectures: i386 source
-Components: main non-free
-Description: Archive lenny-xivo-gallifrey-1.1.20
-SignWith: 9193E98C
+Description: Archive etch-xivo-dalek-1.0.14
+SignWith: 9A081A6C
 
 Origin: proformatique.com
 Label: lenny-xivo-gallifrey-1.1.23
 Suite: lenny-xivo-gallifrey-1.1.23
 Codename: lenny-xivo-gallifrey-1.1.23
+#Update: lenny-xivo-gallifrey lenny
 Architectures: i386 source
 Components: main non-free
-# Update: lenny-xivo-gallifrey
 Description: Archive lenny-xivo-gallifrey-1.1.23
-SignWith: 9193E98C
-
-## Skaro ##
-Origin: proformatique.com
-Label: squeeze-xivo-skaro-1.2-alpha-6
-Suite: squeeze-xivo-skaro-1.2-alpha-6
-Codename: squeeze-xivo-skaro-1.2-alpha-6
-Architectures: i386 source
-Components: main non-free
-Description: Archive squeeze-xivo-skaro-1.2-alpha-6
-SignWith: 9193E98C
+SignWith: 9A081A6C
 
 Origin: proformatique.com
-Label: squeeze-xivo-skaro-1.2-beta-1
-Suite: squeeze-xivo-skaro-1.2-beta-1
-Codename: squeeze-xivo-skaro-1.2-beta-1
+Label: lenny-xivo-gallifrey-1.1.20
+Suite: lenny-xivo-gallifrey-1.1.20
+Codename: lenny-xivo-gallifrey-1.1.20
+#Update: lenny-xivo-gallifrey lenny
 Architectures: i386 source
 Components: main non-free
-Description: Archive squeeze-xivo-skaro-1.2-beta-1
-SignWith: 9193E98C
+Description: Archive lenny-xivo-gallifrey-1.1.20
+SignWith: 9A081A6C
 
 Origin: proformatique.com
-Label: squeeze-xivo-skaro-1.2-beta-2
-Suite: squeeze-xivo-skaro-1.2-beta-2
-Codename: squeeze-xivo-skaro-1.2-beta-2
-# Update: squeeze-xivo-skaro squeeze
+Label: lenny-xivo-gallifrey-1.1.19
+Suite: lenny-xivo-gallifrey-1.1.19
+Codename: lenny-xivo-gallifrey-1.1.19
+#Update: lenny-xivo-gallifrey lenny
 Architectures: i386 source
 Components: main non-free
-Description: Archive squeeze-xivo-skaro-1.2-beta-2
-SignWith: 9193E98C
+Description: Archive lenny-xivo-gallifrey-1.1.19
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: lenny-xivo-gallifrey-1.1.17
+Suite: lenny-xivo-gallifrey-1.1.17
+Codename: lenny-xivo-gallifrey-1.1.17
+#Update: lenny-xivo-gallifrey lenny
+Architectures: i386 source
+Components: main non-free
+Description: Archive lenny-xivo-gallifrey-1.1.17
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: lenny-xivo-gallifrey-1.1.16
+Suite: lenny-xivo-gallifrey-1.1.16
+Codename: lenny-xivo-gallifrey-1.1.16
+#Update: lenny-xivo-gallifrey lenny
+Architectures: i386 source
+Components: main non-free
+Description: Archive lenny-xivo-gallifrey-1.1.16
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: lenny-xivo-gallifrey-1.1.15
+Suite: lenny-xivo-gallifrey-1.1.15
+Codename: lenny-xivo-gallifrey-1.1.15
+#Update: lenny-xivo-gallifrey lenny
+Architectures: i386 source
+Components: main non-free
+Description: Archive lenny-xivo-gallifrey-1.1.15
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: lenny-xivo-gallifrey-1.1.14
+Suite: lenny-xivo-gallifrey-1.1.14
+Codename: lenny-xivo-gallifrey-1.1.14
+#Update: lenny-xivo-gallifrey lenny
+Architectures: i386 source
+Components: main non-free
+Description: Archive lenny-xivo-gallifrey-1.1.14
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: lenny-xivo-gallifrey-1.1.13
+Suite: lenny-xivo-gallifrey-1.1.13
+Codename: lenny-xivo-gallifrey-1.1.13
+#Update: lenny-xivo-gallifrey lenny
+Architectures: i386 source
+Components: main non-free
+Description: Archive lenny-xivo-gallifrey-1.1.13
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: lenny-xivo-gallifrey-1.1.12
+Suite: lenny-xivo-gallifrey-1.1.12
+Codename: lenny-xivo-gallifrey-1.1.12
+#Update: lenny-xivo-gallifrey lenny
+Architectures: i386 source
+Components: main non-free
+Description: Archive lenny-xivo-gallifrey-1.1.12
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: lenny-xivo-gallifrey-1.1.11
+Suite: lenny-xivo-gallifrey-1.1.11
+Codename: lenny-xivo-gallifrey-1.1.11
+#Update: lenny-xivo-gallifrey lenny
+Architectures: i386 source
+Components: main non-free
+Description: Archive lenny-xivo-gallifrey-1.1.11
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: lenny-xivo-gallifrey-1.1.10
+Suite: lenny-xivo-gallifrey-1.1.10
+Codename: lenny-xivo-gallifrey-1.1.10
+#Update: lenny-xivo-gallifrey lenny
+Architectures: i386 source
+Components: main non-free
+Description: Archive lenny-xivo-gallifrey-1.1.10
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: lenny-xivo-gallifrey-1.1.8
+Suite: lenny-xivo-gallifrey-1.1.8
+Codename: lenny-xivo-gallifrey-1.1.8
+#Update: lenny-xivo-gallifrey lenny
+Architectures: i386 source
+Components: main non-free
+Description: Archive lenny-xivo-gallifrey-1.1.8
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: lenny-xivo-gallifrey-1.1.6
+Suite: lenny-xivo-gallifrey-1.1.6
+Codename: lenny-xivo-gallifrey-1.1.6
+#Update: lenny-xivo-gallifrey lenny
+Architectures: i386 source
+Components: main non-free
+Description: Archive lenny-xivo-gallifrey-1.1.6
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: lenny-xivo-gallifrey-1.1.4
+Suite: lenny-xivo-gallifrey-1.1.4
+Codename: lenny-xivo-gallifrey-1.1.4
+#Update: lenny-xivo-gallifrey lenny
+Architectures: i386 source
+Components: main non-free
+Description: Archive lenny-xivo-gallifrey-1.1.4
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: lenny-xivo-gallifrey-1.1.3
+Suite: lenny-xivo-gallifrey-1.1.3
+Codename: lenny-xivo-gallifrey-1.1.3
+#Update: lenny-xivo-gallifrey lenny
+Architectures: i386 source
+Components: main non-free
+Description: Archive lenny-xivo-gallifrey-1.1.3
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: lenny-xivo-gallifrey-1.1.2
+Suite: lenny-xivo-gallifrey-1.1.2
+Codename: lenny-xivo-gallifrey-1.1.2
+#Update: lenny-xivo-gallifrey lenny
+Architectures: i386 source
+Components: main non-free
+Description: Archive lenny-xivo-gallifrey-1.1.2
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: lenny-xivo-gallifrey-1.1.1
+Suite: lenny-xivo-gallifrey-1.1.1
+Codename: lenny-xivo-gallifrey-1.1.1
+#Update: lenny-xivo-gallifrey lenny
+Architectures: i386 source
+Components: main non-free
+Description: Archive lenny-xivo-gallifrey-1.1.1
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-1.2.10
+Suite: squeeze-xivo-skaro-1.2.10
+Codename: squeeze-xivo-skaro-1.2.10
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-1.2.10
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-1.2.9
+Suite: squeeze-xivo-skaro-1.2.9
+Codename: squeeze-xivo-skaro-1.2.9
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-1.2.9
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-1.2.7
+Suite: squeeze-xivo-skaro-1.2.7
+Codename: squeeze-xivo-skaro-1.2.7
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-1.2.7
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-1.2.6
+Suite: squeeze-xivo-skaro-1.2.6
+Codename: squeeze-xivo-skaro-1.2.6
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-1.2.6
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-1.2.5
+Suite: squeeze-xivo-skaro-1.2.5
+Codename: squeeze-xivo-skaro-1.2.5
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-1.2.5
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-1.2.4
+Suite: squeeze-xivo-skaro-1.2.4
+Codename: squeeze-xivo-skaro-1.2.4
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-1.2.4
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-1.2.3
+Suite: squeeze-xivo-skaro-1.2.3
+Codename: squeeze-xivo-skaro-1.2.3
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-1.2.3
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-1.2.2
+Suite: squeeze-xivo-skaro-1.2.2
+Codename: squeeze-xivo-skaro-1.2.2
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-1.2.2
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-1.2.1
+Suite: squeeze-xivo-skaro-1.2.1
+Codename: squeeze-xivo-skaro-1.2.1
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-1.2.1
+SignWith: 9A081A6C
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-1.2
+Suite: squeeze-xivo-skaro-1.2
+Codename: squeeze-xivo-skaro-1.2
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-1.2
+SignWith: 9A081A6C
+
+Origin: avencall.com
+Label: squeeze-dahdi-linux-2.6.0
+Suite: squeeze-dahdi-linux-2.6.0
+Codename: squeeze-dahdi-linux-2.6.0
+Architectures: i386 source
+Components: main
+Description: Archive squeeze-dahdi-linux-2.6.0
+SignWith: 9A081A6C
