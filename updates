@@ -3,25 +3,25 @@ Method: http://mirror.xivo.fr/debian/
 Suite: squeeze
 Components: main non-free
 Architectures: i386 source
-VerifyRelease: 2EAC3C7F9A081A6C
+VerifyRelease: 2D0C2DE0DFB0B26
 
 Name: squeeze-xivo-skaro
 Method: http://mirror.xivo.fr/debian/
 Suite: squeeze-xivo-skaro-rc
 Components: main
 Architectures: i386 source
-VerifyRelease: 2EAC3C7F9A081A6C
+VerifyRelease: 2D0C2DE0DFB0B26
 
 Name: lenny-xivo-gallifrey
 Method: http://mirror.xivo.fr/debian/
 Suite: lenny-xivo-gallifrey
 Components: main non-free
 Architectures: i386 source
-VerifyRelease: 2EAC3C7F9A081A6C
+VerifyRelease: 2D0C2DE0DFB0B26
 
 Name: etch-xivo-dalek
 Method: http://mirror.xivo.fr/debian/
 Suite: etch-xivo-dalek
 Components: main non-free
 Architectures: i386 source
-VerifyRelease: 2EAC3C7F9A081A6C
+VerifyRelease: 2D0C2DE0DFB0B26
