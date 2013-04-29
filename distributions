@@ -199,6 +199,16 @@ Description: Archive lenny-xivo-gallifrey-1.1.1
 SignWith: DFB0B268
 
 Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.08
+Suite: squeeze-xivo-skaro-13.08
+Codename: squeeze-xivo-skaro-13.08
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.08
+SignWith: DFB0B268
+
+Origin: proformatique.com
 Label: squeeze-xivo-skaro-13.07
 Suite: squeeze-xivo-skaro-13.07
 Codename: squeeze-xivo-skaro-13.07
