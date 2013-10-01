@@ -199,6 +199,106 @@ Description: Archive lenny-xivo-gallifrey-1.1.1
 SignWith: DFB0B268
 
 Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.19
+Suite: squeeze-xivo-skaro-13.19
+Codename: squeeze-xivo-skaro-13.19
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.19
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.17
+Suite: squeeze-xivo-skaro-13.17
+Codename: squeeze-xivo-skaro-13.17
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.17
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.16
+Suite: squeeze-xivo-skaro-13.16
+Codename: squeeze-xivo-skaro-13.16
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.16
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.14
+Suite: squeeze-xivo-skaro-13.14
+Codename: squeeze-xivo-skaro-13.14
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.14
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.13
+Suite: squeeze-xivo-skaro-13.13
+Codename: squeeze-xivo-skaro-13.13
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.13
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.12
+Suite: squeeze-xivo-skaro-13.12
+Codename: squeeze-xivo-skaro-13.12
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.12
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.11
+Suite: squeeze-xivo-skaro-13.11
+Codename: squeeze-xivo-skaro-13.11
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.11
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.10
+Suite: squeeze-xivo-skaro-13.10
+Codename: squeeze-xivo-skaro-13.10
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.10
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.09
+Suite: squeeze-xivo-skaro-13.09
+Codename: squeeze-xivo-skaro-13.09
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.09
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.08
+Suite: squeeze-xivo-skaro-13.08
+Codename: squeeze-xivo-skaro-13.08
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.08
+SignWith: DFB0B268
+
+Origin: proformatique.com
 Label: squeeze-xivo-skaro-13.07
 Suite: squeeze-xivo-skaro-13.07
 Codename: squeeze-xivo-skaro-13.07
