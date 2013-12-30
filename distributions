@@ -646,3 +646,14 @@ Architectures: i386 source
 Components: main
 Description: Archive squeeze-dahdi-linux-2.6.0
 SignWith: DFB0B268
+
+Origin: xivo.fr
+Label: xivo-13.25
+Suite: xivo-13.25
+Codename: xivo-13.25
+#Update: xivo-five
+Architectures: i386 source
+Components: main
+Description: Archive xivo-13.25
+SignWith: DFB0B268
+
