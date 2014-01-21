@@ -1,3 +1,6 @@
+# This file is generated automatically at each release.
+# See create_archive_file.git for more details
+
 Origin: proformatique.com
 Label: etch-xivo-dalek-1.0.16
 Suite: etch-xivo-dalek-1.0.16
@@ -655,5 +658,15 @@ Codename: xivo-13.25
 Architectures: i386 source
 Components: main
 Description: Archive xivo-13.25
+SignWith: DFB0B268
+
+Origin: xivo.fr
+Label: xivo-14.01
+Suite: xivo-14.01
+Codename: xivo-14.01
+#Update: xivo-five
+Architectures: i386 source
+Components: main
+Description: Archive xivo-14.01
 SignWith: DFB0B268
 
