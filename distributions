@@ -690,3 +690,13 @@ Components: main
 Description: Archive xivo-14.03
 SignWith: DFB0B268
 
+Origin: xivo.fr
+Label: xivo-14.04
+Suite: xivo-14.04
+Codename: xivo-14.04
+#Update: xivo-five
+Architectures: i386 source
+Components: main
+Description: Archive xivo-14.04
+SignWith: DFB0B268
+
