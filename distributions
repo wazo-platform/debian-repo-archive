@@ -710,3 +710,13 @@ Components: main
 Description: Archive xivo-14.05
 SignWith: DFB0B268
 
+Origin: xivo.fr
+Label: xivo-14.06
+Suite: xivo-14.06
+Codename: xivo-14.06
+#Update: xivo-five
+Architectures: i386 source
+Components: main
+Description: Archive xivo-14.06
+SignWith: DFB0B268
+
