@@ -650,123 +650,133 @@ Components: main
 Description: Archive squeeze-dahdi-linux-2.6.0
 SignWith: DFB0B268
 
-Origin: xivo.fr
+Origin: xivo.io
 Label: xivo-13.25
 Suite: xivo-13.25
 Codename: xivo-13.25
 #Update: xivo-five
-Architectures: i386 source
+Architectures: i386 amd64 source
 Components: main
 Description: Archive xivo-13.25
 SignWith: DFB0B268
 
-Origin: xivo.fr
+Origin: xivo.io
 Label: xivo-14.01
 Suite: xivo-14.01
 Codename: xivo-14.01
 #Update: xivo-five
-Architectures: i386 source
+Architectures: i386 amd64 source
 Components: main
 Description: Archive xivo-14.01
 SignWith: DFB0B268
 
-Origin: xivo.fr
+Origin: xivo.io
 Label: xivo-14.02
 Suite: xivo-14.02
 Codename: xivo-14.02
 #Update: xivo-five
-Architectures: i386 source
+Architectures: i386 amd64 source
 Components: main
 Description: Archive xivo-14.02
 SignWith: DFB0B268
 
-Origin: xivo.fr
+Origin: xivo.io
 Label: xivo-14.03
 Suite: xivo-14.03
 Codename: xivo-14.03
 #Update: xivo-five
-Architectures: i386 source
+Architectures: i386 amd64 source
 Components: main
 Description: Archive xivo-14.03
 SignWith: DFB0B268
 
-Origin: xivo.fr
+Origin: xivo.io
 Label: xivo-14.04
 Suite: xivo-14.04
 Codename: xivo-14.04
 #Update: xivo-five
-Architectures: i386 source
+Architectures: i386 amd64 source
 Components: main
 Description: Archive xivo-14.04
 SignWith: DFB0B268
 
-Origin: xivo.fr
+Origin: xivo.io
 Label: xivo-14.05
 Suite: xivo-14.05
 Codename: xivo-14.05
 #Update: xivo-five
-Architectures: i386 source
+Architectures: i386 amd64 source
 Components: main
 Description: Archive xivo-14.05
 SignWith: DFB0B268
 
-Origin: xivo.fr
+Origin: xivo.io
 Label: xivo-14.06
 Suite: xivo-14.06
 Codename: xivo-14.06
 #Update: xivo-five
-Architectures: i386 source
+Architectures: i386 amd64 source
 Components: main
 Description: Archive xivo-14.06
 SignWith: DFB0B268
 
-Origin: xivo.fr
+Origin: xivo.io
 Label: xivo-14.07
 Suite: xivo-14.07
 Codename: xivo-14.07
 #Update: xivo-five
-Architectures: i386 source
+Architectures: i386 amd64 source
 Components: main
 Description: Archive xivo-14.07
 SignWith: DFB0B268
 
-Origin: xivo.fr
+Origin: xivo.io
 Label: xivo-14.08
 Suite: xivo-14.08
 Codename: xivo-14.08
 #Update: xivo-five
-Architectures: i386 source
+Architectures: i386 amd64 source
 Components: main
 Description: Archive xivo-14.08
 SignWith: DFB0B268
 
-Origin: xivo.fr
+Origin: xivo.io
 Label: xivo-14.09
 Suite: xivo-14.09
 Codename: xivo-14.09
 #Update: xivo-five
-Architectures: i386 source
+Architectures: i386 amd64 source
 Components: main
 Description: Archive xivo-14.09
 SignWith: DFB0B268
 
-Origin: xivo.fr
+Origin: xivo.io
 Label: xivo-14.10
 Suite: xivo-14.10
 Codename: xivo-14.10
 #Update: xivo-five
-Architectures: i386 source
+Architectures: i386 amd64 source
 Components: main
 Description: Archive xivo-14.10
 SignWith: DFB0B268
 
-Origin: xivo.fr
+Origin: xivo.io
 Label: xivo-14.11
 Suite: xivo-14.11
 Codename: xivo-14.11
 #Update: xivo-five
-Architectures: i386 source
+Architectures: i386 amd64 source
 Components: main
 Description: Archive xivo-14.11
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.12
+Suite: xivo-14.12
+Codename: xivo-14.12
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.12
 SignWith: DFB0B268
 
