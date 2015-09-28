@@ -2,7 +2,7 @@ Name: xivo-five
 Method: http://mirror.xivo.io/debian/
 Suite: xivo-five
 Components: main
-Architectures: i386 source
+Architectures: i386 amd64 source
 VerifyRelease: 2D0C2DE0DFB0B268
 
 Name: squeeze
