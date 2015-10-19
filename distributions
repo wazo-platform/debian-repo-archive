@@ -1,5 +1,5 @@
 # This file is generated automatically at each release.
-# See create_archive_file.git for more details
+# See git repo debian-add-archive for more details
 
 Origin: proformatique.com
 Label: etch-xivo-dalek-1.0.16
@@ -1058,5 +1058,15 @@ Codename: xivo-15.16
 Architectures: i386 amd64 source
 Components: main
 Description: Archive xivo-15.16
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-15.17
+Suite: xivo-15.17
+Codename: xivo-15.17
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-15.17
 SignWith: DFB0B268
 
