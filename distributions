@@ -1140,3 +1140,13 @@ Components: main
 Description: Archive xivo-16.04
 SignWith: DFB0B268
 
+Origin: xivo.io
+Label: xivo-16.05
+Suite: xivo-16.05
+Codename: xivo-16.05
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-16.05
+SignWith: DFB0B268
+
