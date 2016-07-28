@@ -32,3 +32,10 @@ Suite: etch-xivo-dalek
 Components: main non-free
 Architectures: i386 source
 VerifyRelease: 2D0C2DE0DFB0B268
+
+#Name: xivo-16.08
+#Method: http://mirror.xivo.io/archive
+#Suite: xivo-16.08
+#Components: main
+#Architectures: i386 amd64 source
+#VerifyRelease: 2D0C2DE0DFB0B268
