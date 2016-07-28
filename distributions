@@ -1181,6 +1181,16 @@ Description: Archive xivo-16.08
 SignWith: DFB0B268
 
 Origin: xivo.io
+Label: xivo-16.08.1
+Suite: xivo-16.08.1
+Codename: xivo-16.08.1
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-16.08.1
+SignWith: DFB0B268
+
+Origin: xivo.io
 Label: xivo-16.09
 Suite: xivo-16.09
 Codename: xivo-16.09
