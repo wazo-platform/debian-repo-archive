@@ -1,3 +1,10 @@
+Name: phoenix
+Method: http://mirror.wazo.community/debian/
+Suite: phoenix
+Components: main
+Architectures: i386 amd64 source
+VerifyRelease: 527FBC6A
+
 Name: xivo-five
 Method: http://mirror.xivo.io/debian/
 Suite: xivo-five
