@@ -974,3 +974,11 @@ Components: main
 Description: Archive wazo-17.17
 SignWith: 527FBC6A
 
+Origin: Wazo
+Codename: wazo-18.01
+#Update: phoenix-stretch
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-18.01
+SignWith: 527FBC6A
+
