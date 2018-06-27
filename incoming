@@ -1,0 +1,11 @@
+Name: xivo-16.03
+IncomingDir: incoming/xivo-16.03
+TempDir: /tmp
+Default: xivo-16.03
+Cleanup: on_deny on_error
+
+Name: xivo-15.20
+IncomingDir: incoming/xivo-15.20
+TempDir: /tmp
+Default: xivo-15.20
+Cleanup: on_deny on_error
