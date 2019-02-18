@@ -5,6 +5,13 @@ Components: main
 Architectures: i386 amd64 source
 VerifyRelease: 527FBC6A
 
+Name: wazo-rc-stretch
+Method: http://mirror.wazo.community/debian/
+Suite: wazo-rc-stretch
+Components: main
+Architectures: i386 amd64 source
+VerifyRelease: 527FBC6A
+
 Name: phoenix
 Method: http://mirror.wazo.community/debian/
 Suite: phoenix
