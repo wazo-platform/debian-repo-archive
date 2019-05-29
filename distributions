@@ -832,7 +832,7 @@ SignWith: DFB0B268
 
 Origin: Wazo
 Codename: wazo-16.16
-#Update: phoenix
+#Update: - phoenix
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-16.16
@@ -840,7 +840,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-17.01
-#Update: phoenix
+#Update: - phoenix
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-17.01
@@ -848,7 +848,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-17.02
-#Update: phoenix
+#Update: - phoenix
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-17.02
@@ -856,7 +856,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-17.03
-#Update: phoenix
+#Update: - phoenix
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-17.03
@@ -864,7 +864,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-17.04
-#Update: phoenix
+#Update: - phoenix
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-17.04
@@ -872,7 +872,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-17.05
-#Update: phoenix
+#Update: - phoenix
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-17.05
@@ -880,7 +880,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-17.06
-#Update: phoenix
+#Update: - phoenix
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-17.06
@@ -888,7 +888,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-17.07
-#Update: phoenix
+#Update: - phoenix
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-17.07
@@ -896,7 +896,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-17.08
-#Update: phoenix
+#Update: - phoenix
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-17.08
@@ -904,7 +904,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-17.09
-#Update: phoenix
+#Update: - phoenix
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-17.09
@@ -912,7 +912,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-17.10
-#Update: phoenix
+#Update: - phoenix
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-17.10
@@ -920,7 +920,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-17.11
-#Update: phoenix
+#Update: - phoenix
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-17.11
@@ -928,7 +928,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-17.12
-#Update: phoenix
+#Update: - phoenix
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-17.12
@@ -936,7 +936,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-17.13
-#Update: phoenix
+#Update: - phoenix
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-17.13
@@ -944,7 +944,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-17.14
-#Update: phoenix
+#Update: - phoenix
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-17.14
@@ -952,7 +952,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-17.15
-#Update: phoenix
+#Update: - phoenix
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-17.15
@@ -960,7 +960,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-17.16
-#Update: phoenix
+#Update: - phoenix
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-17.16
@@ -968,7 +968,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-17.17
-#Update: phoenix
+#Update: - phoenix
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-17.17
@@ -976,7 +976,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-18.01
-#Update: phoenix-stretch
+#Update: - phoenix-stretch
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-18.01
@@ -984,7 +984,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-18.02
-#Update: phoenix-stretch
+#Update: - phoenix-stretch
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-18.02
@@ -992,7 +992,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-18.03
-#Update: phoenix-stretch
+#Update: - phoenix-stretch
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-18.03
@@ -1000,7 +1000,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-19.03
-#Update: wazo-rc-stretch
+#Update: - wazo-rc-stretch
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-19.03
@@ -1008,7 +1008,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-19.04
-#Update: wazo-rc-stretch
+#Update: - wazo-rc-stretch
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-19.04
@@ -1016,7 +1016,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-19.05
-#Update: wazo-rc-stretch
+#Update: - wazo-rc-stretch
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-19.05
@@ -1024,7 +1024,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-19.06
-#Update: wazo-rc-stretch
+#Update: - wazo-rc-stretch
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-19.06
@@ -1032,9 +1032,17 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-19.07
-#Update: wazo-rc-stretch
+#Update: - wazo-rc-stretch
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-19.07
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-19.08
+#Update: - wazo-rc-stretch
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-19.08
 SignWith: 527FBC6A
 
