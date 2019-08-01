@@ -999,6 +999,14 @@ Description: Archive wazo-18.03
 SignWith: 527FBC6A
 
 Origin: Wazo
+Codename: wazo-19.03
+#Update: - wazo-rc-stretch
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-19.03
+SignWith: 527FBC6A
+
+Origin: Wazo
 Codename: wazo-19.04
 #Update: - wazo-rc-stretch
 Architectures: i386 amd64 source
@@ -1052,5 +1060,13 @@ Codename: wazo-19.10
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-19.10
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-19.11
+#Update: - wazo-rc-stretch
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-19.11
 SignWith: 527FBC6A
 
