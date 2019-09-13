@@ -1000,7 +1000,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-19.03
-#Update: - wazo-rc-stretch
+#Update: - wazo-rc-buster
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-19.03
@@ -1008,7 +1008,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-19.04
-#Update: - wazo-rc-stretch
+#Update: - wazo-rc-buster
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-19.04
@@ -1016,7 +1016,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-19.05
-#Update: - wazo-rc-stretch
+#Update: - wazo-rc-buster
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-19.05
@@ -1024,7 +1024,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-19.06
-#Update: - wazo-rc-stretch
+#Update: - wazo-rc-buster
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-19.06
@@ -1032,7 +1032,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-19.07
-#Update: - wazo-rc-stretch
+#Update: - wazo-rc-buster
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-19.07
@@ -1040,7 +1040,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-19.08
-#Update: - wazo-rc-stretch
+#Update: - wazo-rc-buster
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-19.08
@@ -1048,7 +1048,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-19.09
-#Update: - wazo-rc-stretch
+#Update: - wazo-rc-buster
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-19.09
@@ -1056,7 +1056,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-19.10
-#Update: - wazo-rc-stretch
+#Update: - wazo-rc-buster
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-19.10
@@ -1064,7 +1064,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-19.11
-#Update: - wazo-rc-stretch
+#Update: - wazo-rc-buster
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-19.11
@@ -1072,9 +1072,17 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-19.12
-#Update: - wazo-rc-stretch
+#Update: - wazo-rc-buster
 Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-19.12
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-19.13
+#Update: - wazo-rc-buster
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-19.13
 SignWith: 527FBC6A
 
