@@ -1110,3 +1110,11 @@ Components: main
 Description: Archive wazo-19.16
 SignWith: 527FBC6A
 
+Origin: Wazo
+Codename: wazo-19.17
+#Update: - wazo-rc-buster
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-19.17
+SignWith: 527FBC6A
+
