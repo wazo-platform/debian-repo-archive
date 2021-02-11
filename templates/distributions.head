@@ -1,0 +1,1079 @@
+# This file is generated automatically at each release.
+# See git repo debian-add-archive for more details
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.24
+Suite: squeeze-xivo-skaro-13.24
+Codename: squeeze-xivo-skaro-13.24
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.24
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.23
+Suite: squeeze-xivo-skaro-13.23
+Codename: squeeze-xivo-skaro-13.23
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.23
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.22
+Suite: squeeze-xivo-skaro-13.22
+Codename: squeeze-xivo-skaro-13.22
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.22
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.21
+Suite: squeeze-xivo-skaro-13.21
+Codename: squeeze-xivo-skaro-13.21
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.21
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.20
+Suite: squeeze-xivo-skaro-13.20
+Codename: squeeze-xivo-skaro-13.20
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.20
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.19
+Suite: squeeze-xivo-skaro-13.19
+Codename: squeeze-xivo-skaro-13.19
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.19
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.17
+Suite: squeeze-xivo-skaro-13.17
+Codename: squeeze-xivo-skaro-13.17
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.17
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.16
+Suite: squeeze-xivo-skaro-13.16
+Codename: squeeze-xivo-skaro-13.16
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.16
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.14
+Suite: squeeze-xivo-skaro-13.14
+Codename: squeeze-xivo-skaro-13.14
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.14
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.13
+Suite: squeeze-xivo-skaro-13.13
+Codename: squeeze-xivo-skaro-13.13
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.13
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.12
+Suite: squeeze-xivo-skaro-13.12
+Codename: squeeze-xivo-skaro-13.12
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.12
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.11
+Suite: squeeze-xivo-skaro-13.11
+Codename: squeeze-xivo-skaro-13.11
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.11
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.10
+Suite: squeeze-xivo-skaro-13.10
+Codename: squeeze-xivo-skaro-13.10
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.10
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.09
+Suite: squeeze-xivo-skaro-13.09
+Codename: squeeze-xivo-skaro-13.09
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.09
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.08
+Suite: squeeze-xivo-skaro-13.08
+Codename: squeeze-xivo-skaro-13.08
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.08
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.07
+Suite: squeeze-xivo-skaro-13.07
+Codename: squeeze-xivo-skaro-13.07
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.07
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.06
+Suite: squeeze-xivo-skaro-13.06
+Codename: squeeze-xivo-skaro-13.06
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.06
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.05
+Suite: squeeze-xivo-skaro-13.05
+Codename: squeeze-xivo-skaro-13.05
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.05
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.04
+Suite: squeeze-xivo-skaro-13.04
+Codename: squeeze-xivo-skaro-13.04
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.04
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.03
+Suite: squeeze-xivo-skaro-13.03
+Codename: squeeze-xivo-skaro-13.03
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.03
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.02
+Suite: squeeze-xivo-skaro-13.02
+Codename: squeeze-xivo-skaro-13.02
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.02
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-13.01
+Suite: squeeze-xivo-skaro-13.01
+Codename: squeeze-xivo-skaro-13.01
+#Update: squeeze-xivo-skaro squeeze
+Architectures: i386 source
+Components: main non-free
+Description: Archive squeeze-xivo-skaro-13.01
+SignWith: DFB0B268
+
+Origin: avencall.com
+Label: squeeze-dahdi-linux-2.6.0
+Suite: squeeze-dahdi-linux-2.6.0
+Codename: squeeze-dahdi-linux-2.6.0
+Architectures: i386 source
+Components: main
+Description: Archive squeeze-dahdi-linux-2.6.0
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-13.25
+Suite: xivo-13.25
+Codename: xivo-13.25
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-13.25
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.01
+Suite: xivo-14.01
+Codename: xivo-14.01
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.01
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.02
+Suite: xivo-14.02
+Codename: xivo-14.02
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.02
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.03
+Suite: xivo-14.03
+Codename: xivo-14.03
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.03
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.04
+Suite: xivo-14.04
+Codename: xivo-14.04
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.04
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.05
+Suite: xivo-14.05
+Codename: xivo-14.05
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.05
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.06
+Suite: xivo-14.06
+Codename: xivo-14.06
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.06
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.07
+Suite: xivo-14.07
+Codename: xivo-14.07
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.07
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.08
+Suite: xivo-14.08
+Codename: xivo-14.08
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.08
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.09
+Suite: xivo-14.09
+Codename: xivo-14.09
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.09
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.10
+Suite: xivo-14.10
+Codename: xivo-14.10
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.10
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.11
+Suite: xivo-14.11
+Codename: xivo-14.11
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.11
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.12
+Suite: xivo-14.12
+Codename: xivo-14.12
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.12
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.13
+Suite: xivo-14.13
+Codename: xivo-14.13
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.13
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.14
+Suite: xivo-14.14
+Codename: xivo-14.14
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.14
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.15
+Suite: xivo-14.15
+Codename: xivo-14.15
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.15
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.16
+Suite: xivo-14.16
+Codename: xivo-14.16
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.16
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.17
+Suite: xivo-14.17
+Codename: xivo-14.17
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.17
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.18
+Suite: xivo-14.18
+Codename: xivo-14.18
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.18
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.19
+Suite: xivo-14.19
+Codename: xivo-14.19
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.19
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.20
+Suite: xivo-14.20
+Codename: xivo-14.20
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.20
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.21
+Suite: xivo-14.21
+Codename: xivo-14.21
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.21
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.22
+Suite: xivo-14.22
+Codename: xivo-14.22
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.22
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.23
+Suite: xivo-14.23
+Codename: xivo-14.23
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.23
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-14.24
+Suite: xivo-14.24
+Codename: xivo-14.24
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-14.24
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-15.01
+Suite: xivo-15.01
+Codename: xivo-15.01
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-15.01
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-15.02
+Suite: xivo-15.02
+Codename: xivo-15.02
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-15.02
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-15.03
+Suite: xivo-15.03
+Codename: xivo-15.03
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-15.03
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-15.04
+Suite: xivo-15.04
+Codename: xivo-15.04
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-15.04
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-15.05
+Suite: xivo-15.05
+Codename: xivo-15.05
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-15.05
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-15.06
+Suite: xivo-15.06
+Codename: xivo-15.06
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-15.06
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-15.07
+Suite: xivo-15.07
+Codename: xivo-15.07
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-15.07
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-15.08
+Suite: xivo-15.08
+Codename: xivo-15.08
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-15.08
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-15.09
+Suite: xivo-15.09
+Codename: xivo-15.09
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-15.09
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-15.10
+Suite: xivo-15.10
+Codename: xivo-15.10
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-15.10
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-15.11
+Suite: xivo-15.11
+Codename: xivo-15.11
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-15.11
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-15.12
+Suite: xivo-15.12
+Codename: xivo-15.12
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-15.12
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-15.13
+Suite: xivo-15.13
+Codename: xivo-15.13
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-15.13
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-15.14
+Suite: xivo-15.14
+Codename: xivo-15.14
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-15.14
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-15.15
+Suite: xivo-15.15
+Codename: xivo-15.15
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-15.15
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-15.16
+Suite: xivo-15.16
+Codename: xivo-15.16
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-15.16
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-15.17
+Suite: xivo-15.17
+Codename: xivo-15.17
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-15.17
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-15.18
+Suite: xivo-15.18
+Codename: xivo-15.18
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-15.18
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-15.19
+Suite: xivo-15.19
+Codename: xivo-15.19
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-15.19
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-15.20
+Suite: xivo-15.20
+Codename: xivo-15.20
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-15.20
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-16.01
+Suite: xivo-16.01
+Codename: xivo-16.01
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-16.01
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-16.02
+Suite: xivo-16.02
+Codename: xivo-16.02
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-16.02
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-16.03
+Suite: xivo-16.03
+Codename: xivo-16.03
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-16.03
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-16.04
+Suite: xivo-16.04
+Codename: xivo-16.04
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-16.04
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-16.05
+Suite: xivo-16.05
+Codename: xivo-16.05
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-16.05
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-16.06
+Suite: xivo-16.06
+Codename: xivo-16.06
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-16.06
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-16.07
+Suite: xivo-16.07
+Codename: xivo-16.07
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-16.07
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-16.08
+Suite: xivo-16.08
+Codename: xivo-16.08
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-16.08
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-16.08.1
+Suite: xivo-16.08.1
+Codename: xivo-16.08.1
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-16.08.1
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-16.08.2
+Suite: xivo-16.08.2
+Codename: xivo-16.08.2
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-16.08.2
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-16.09
+Suite: xivo-16.09
+Codename: xivo-16.09
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-16.09
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-16.10
+Suite: xivo-16.10
+Codename: xivo-16.10
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-16.10
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-16.11
+Suite: xivo-16.11
+Codename: xivo-16.11
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-16.11
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-16.12
+Suite: xivo-16.12
+Codename: xivo-16.12
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-16.12
+SignWith: DFB0B268
+
+Origin: xivo.io
+Label: xivo-16.13
+Suite: xivo-16.13
+Codename: xivo-16.13
+#Update: xivo-five
+Architectures: i386 amd64 source
+Components: main
+Description: Archive xivo-16.13
+SignWith: DFB0B268
+
+Origin: Wazo
+Codename: wazo-16.16
+#Update: - phoenix
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-16.16
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-17.01
+#Update: - phoenix
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-17.01
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-17.02
+#Update: - phoenix
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-17.02
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-17.03
+#Update: - phoenix
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-17.03
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-17.04
+#Update: - phoenix
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-17.04
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-17.05
+#Update: - phoenix
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-17.05
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-17.06
+#Update: - phoenix
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-17.06
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-17.07
+#Update: - phoenix
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-17.07
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-17.08
+#Update: - phoenix
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-17.08
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-17.09
+#Update: - phoenix
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-17.09
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-17.10
+#Update: - phoenix
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-17.10
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-17.11
+#Update: - phoenix
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-17.11
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-17.12
+#Update: - phoenix
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-17.12
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-17.13
+#Update: - phoenix
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-17.13
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-17.14
+#Update: - phoenix
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-17.14
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-17.15
+#Update: - phoenix
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-17.15
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-17.16
+#Update: - phoenix
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-17.16
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-17.17
+#Update: - phoenix
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-17.17
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-18.01
+#Update: - phoenix-stretch
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-18.01
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-18.02
+#Update: - phoenix-stretch
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-18.02
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-18.03
+#Update: - phoenix-stretch
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-18.03
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-19.03
+#Update: - wazo-rc-stretch
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-19.03
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-19.04
+#Update: - wazo-rc-stretch
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-19.04
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-19.05
+#Update: - wazo-rc-stretch
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-19.05
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-19.06
+#Update: - wazo-rc-stretch
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-19.06
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-19.07
+#Update: - wazo-rc-stretch
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-19.07
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-19.08
+#Update: - wazo-rc-stretch
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-19.08
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-19.09
+#Update: - wazo-rc-stretch
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-19.09
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-19.10
+#Update: - wazo-rc-stretch
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-19.10
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-19.11
+#Update: - wazo-rc-stretch
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-19.11
+SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-19.12
+#Update: - wazo-rc-stretch
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-19.12
+SignWith: 527FBC6A
