@@ -1277,3 +1277,11 @@ Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-21.03
 SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-21.04
+#Update: - wazo-rc-buster
+Architectures: i386 amd64 source
+Components: main
+Description: Archive wazo-21.04
+SignWith: 527FBC6A
