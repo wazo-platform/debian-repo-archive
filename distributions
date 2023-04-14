@@ -728,3 +728,12 @@ Architectures: i386 amd64 source
 Components: main
 Description: Archive wazo-23.05
 SignWith: 527FBC6A
+
+Origin: Wazo
+Codename: wazo-23.06
+#Update: - wazo-rc-bullseye
+Architectures: amd64 source
+Components: main
+Description: Archive wazo-23.06
+SignWith: 19121AED
+
