@@ -1,9 +1,9 @@
 Name: wazo-rc-bullseye
-Method: http://mirror.wazo.community/debian/
+Method: file:///data/reprepro/xivo
 Suite: wazo-rc-bullseye
 Components: main
-Architectures: i386 amd64 source
-VerifyRelease: 527FBC6A
+Architectures: amd64 source
+VerifyRelease: blindtrust
 
 Name: wazo-rc-buster
 Method: http://mirror.wazo.community/debian/
