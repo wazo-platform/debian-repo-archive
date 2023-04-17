@@ -32,38 +32,3 @@ Suite: phoenix
 Components: main
 Architectures: i386 amd64 source
 VerifyRelease: 527FBC6A
-
-Name: xivo-five
-Method: http://mirror.xivo.io/debian/
-Suite: xivo-five
-Components: main
-Architectures: i386 amd64 source
-VerifyRelease: 2D0C2DE0DFB0B268
-
-Name: squeeze
-Method: http://mirror.xivo.io/debian/
-Suite: squeeze
-Components: main non-free
-Architectures: i386 source
-VerifyRelease: 2D0C2DE0DFB0B268
-
-Name: squeeze-xivo-skaro
-Method: http://mirror.xivo.io/debian/
-Suite: squeeze-xivo-skaro-rc
-Components: main
-Architectures: i386 source
-VerifyRelease: 2D0C2DE0DFB0B268
-
-Name: lenny-xivo-gallifrey
-Method: http://mirror.xivo.io/debian/
-Suite: lenny-xivo-gallifrey
-Components: main non-free
-Architectures: i386 source
-VerifyRelease: 2D0C2DE0DFB0B268
-
-Name: etch-xivo-dalek
-Method: http://mirror.xivo.io/debian/
-Suite: etch-xivo-dalek
-Components: main non-free
-Architectures: i386 source
-VerifyRelease: 2D0C2DE0DFB0B268
