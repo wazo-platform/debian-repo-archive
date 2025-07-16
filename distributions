@@ -1032,3 +1032,11 @@ Architectures: amd64 source
 Components: main
 Description: Archive wazo-25.09
 SignWith: 19121AED
+
+Origin: Wazo
+Codename: wazo-25.10
+#Update: - wazo-rc-bullseye
+Architectures: amd64 source
+Components: main
+Description: Archive wazo-25.10
+SignWith: 19121AED
