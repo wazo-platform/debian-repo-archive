@@ -1,3 +1,10 @@
+Name: wazo-rc-bookworm
+Method: file:///data/reprepro/xivo
+Suite: wazo-rc-bookworm
+Components: main
+Architectures: amd64 source
+VerifyRelease: blindtrust
+
 Name: wazo-rc-bullseye
 Method: file:///data/reprepro/xivo
 Suite: wazo-rc-bullseye

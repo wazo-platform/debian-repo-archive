@@ -8,7 +8,7 @@ Components: main
 Description: Archive wazo-{{ version }}
 SignWith: 527FBC6A
 {% endfor -%}
-{% for version in versions %}
+{% for version in bullseye_versions %}
 Origin: Wazo
 Codename: wazo-{{ version }}
 #Update: - wazo-rc-bullseye
@@ -16,4 +16,13 @@ Architectures: amd64 source
 Components: main
 Description: Archive wazo-{{ version }}
 SignWith: 19121AED
+{% endfor %}
+{% for version in versions %}
+Origin: Wazo
+Codename: wazo-{{ version }}
+#Update: - wazo-rc-bookworm
+Architectures: amd64 source
+Components: main
+Description: Archive wazo-{{ version }}
+SignWith: D87E06EF
 {% endfor %}
