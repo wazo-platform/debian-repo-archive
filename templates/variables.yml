@@ -59,7 +59,7 @@ buster_versions:
 - '23.03'
 - '23.04'
 - '23.05'
-versions:
+bullseye_versions:
 - '23.06'
 - '23.07'
 - '23.08'
@@ -103,3 +103,4 @@ versions:
 - '25.12'
 - '25.13'
 - '25.14'
+versions: []
