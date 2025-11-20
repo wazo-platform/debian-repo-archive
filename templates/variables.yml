@@ -105,3 +105,4 @@ buster_versions:
 - '23.05'
 versions:
 - '25.15'
+- '25.16'
