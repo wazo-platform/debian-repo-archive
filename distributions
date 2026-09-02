@@ -1161,3 +1161,11 @@ Architectures: amd64 source
 Components: main
 Description: Archive wazo-26.08
 SignWith: D87E06EF
+
+Origin: Wazo
+Codename: wazo-26.09
+#Update: - wazo-rc-bookworm
+Architectures: amd64 source
+Components: main
+Description: Archive wazo-26.09
+SignWith: D87E06EF
